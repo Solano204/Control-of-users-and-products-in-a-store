@@ -36,43 +36,63 @@ These stored procedures are executed from the Java application, ensuring seamles
 
 The application provides a menu with seven main views, each tailored to specific management tasks:
 
-### 1. **🔐 Login View**
+### 1. **🔐 Login **
    - Secure login with encrypted credentials.
    - Role-based access to different views and features.
   ![Captura de pantalla 2024-08-19 043431](https://github.com/user-attachments/assets/b4db67ee-9a1a-45f0-98b2-595e61b32383)
 
-### 2. **💰 Sales Management View**
+### 2. **💰 Sales Management**
    - Conduct sales transactions with customer and product selection.
    - Generate and print receipts for each sale.
    - Validate inputs to ensure transaction accuracy.
-   ![alt text](<../Images/Captura de pantalla 2024-08-19 050436.png>)
+  ![Captura de pantalla 2024-08-19 050436](https://github.com/user-attachments/assets/616c0a47-a288-4009-8ae1-b1cea1a9ed5e)
 
-### 3. **👥 Customer Management View**
+![Captura de pantalla 2024-08-19 050456](https://github.com/user-attachments/assets/f6f3f0f0-8072-478a-a5d1-a754a27bce3a)
+
+![Captura de pantalla 2024-08-19 050932](https://github.com/user-attachments/assets/30c59731-449c-498f-baea-10cefd738b0c)
+
+### 3. **👥 Customer Management **
    - View and manage customer information.
    - Add, update, or delete customer records.
+
+![Captura de pantalla 2024-08-19 050522](https://github.com/user-attachments/assets/fb99277d-de7c-4ab4-bfbf-f5979271cbc0)
    
 
-### 4. **🏭 Supplier Management View**
+### 4. **🏭 Supplier Management **
    - Manage supplier details.
    - Edit and update supplier information as needed.
 
-### 5. **📦 Product Management View**
+     ![Captura de pantalla 2024-08-19 050626](https://github.com/user-attachments/assets/27df846d-a550-47bc-8524-9377e19518d9)
+
+
+### 5. **📦 Product Management **
    - Insert, select, delete, and update product records.
    - Generate and print Excel reports with stock levels and best-selling products.
 
-### 6. **👤 User Management View**
+
+![Captura de pantalla 2024-08-19 055117](https://github.com/user-attachments/assets/b621966e-37e4-422a-841a-3e66761e90dc)
+
+![Captura de pantalla 2024-08-19 051018](https://github.com/user-attachments/assets/fb9eabb3-a78c-4eb4-923d-ad481ef85a97)
+
+### 6. **👤 User Management **
    - Manage user accounts, including creation, updates, and deletions.
    - Assign roles and permissions to users.
 
-### 7. **📊 Sales Overview View**
+     ![Captura de pantalla 2024-08-19 050730](https://github.com/user-attachments/assets/366ca71c-c2aa-464e-9ceb-46175094e196)
+
+### 7. **📊 Sales Overview**
    - View and manage all sales transactions.
    - Visualize sales trends over time (daily, monthly, yearly).
    - Retrieve and reprint receipts for previous purchases.
 
-### 8. **🏪 Store Information View**
+![Captura de pantalla 2024-08-19 050744](https://github.com/user-attachments/assets/9d424353-9da6-4058-8ed9-2197ebe87d46)
+
+![Captura de pantalla 2024-08-19 050832](https://github.com/user-attachments/assets/ad21986d-f1de-481d-b35e-89ac671ae381)
+
+### 8. **🏪 Store Information **
    - Overview of the store’s key information and metrics.
 
----
+
 
 ## 📂 **Project Structure**
 
