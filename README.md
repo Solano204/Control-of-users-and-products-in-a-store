@@ -39,7 +39,7 @@ The application provides a menu with seven main views, each tailored to specific
 ### 1. **🔐 Login View**
    - Secure login with encrypted credentials.
    - Role-based access to different views and features.
-   ![alt text](<../Images/Captura de pantalla 2024-08-19 043431.png>)
+  ![Captura de pantalla 2024-08-19 043431](https://github.com/user-attachments/assets/b4db67ee-9a1a-45f0-98b2-595e61b32383)
 
 ### 2. **💰 Sales Management View**
    - Conduct sales transactions with customer and product selection.
